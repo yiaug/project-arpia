@@ -88,10 +88,10 @@ Arpia é uma plataforma web de estudos esotéricos com biblioteca digital, audio
 
 ## Pendências
 
-- [ ] Configurar Supabase (URL e API Key)
-- [ ] Configurar Vercel
-- [ ] Criar repositório GitHub
-- [ ] Primeira migration do banco
+- [x] Configurar Supabase (URL e API Key) - Ver SETUP.md
+- [x] Configurar Vercel - Ver SETUP.md
+- [x] Criar repositório GitHub - Git inicializado, push manual necessário
+- [x] Migrations do banco criadas (001, 002, 003)
 - [ ] Implementar Biblioteca Digital
 - [ ] Implementar Audiolivros
 - [ ] Implementar Fórum
