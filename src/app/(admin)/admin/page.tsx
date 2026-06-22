@@ -1,7 +1,7 @@
+'use client'
+
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Users, BookOpen, Headphones, MessageSquare } from 'lucide-react'
-
-export const dynamic = 'force-dynamic'
 
 export default function AdminPage() {
   return (
